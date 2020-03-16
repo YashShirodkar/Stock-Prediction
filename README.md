@@ -41,3 +41,5 @@ Support Vector Regession gives a better result by reducing the error. However it
 
 For the actual data taken in the implemented program the error for support vector regression is –
 0.1429184
+
+![SP500](https://user-images.githubusercontent.com/36268383/76799148-65013a00-67a7-11ea-9a1c-d46046de8422.jpg)
