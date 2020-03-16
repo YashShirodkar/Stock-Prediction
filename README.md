@@ -18,6 +18,7 @@ b. Find the average.
 For the actual data taken in the implemented program the error for polynomial regression is –
 0.5537179
 
+![SP500](https://user-images.githubusercontent.com/36268383/76798919-ec01e280-67a6-11ea-9594-3c4533f0a880.jpg)
 
 Suppport Vector Regression – (Flow of the program)
 10.	Import the dataset.
