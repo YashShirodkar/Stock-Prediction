@@ -44,4 +44,4 @@ For the actual data taken in the implemented program the error for support vecto
 
 ![SP500](https://user-images.githubusercontent.com/36268383/76799148-65013a00-67a7-11ea-9a1c-d46046de8422.jpg)
 
-This document is create by Yash Shirodkar. 
+This document is created by Yash Shirodkar. 
