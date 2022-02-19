@@ -1,3 +1,5 @@
+# Using Polynomial Regression for Stock Analysis
+
 library(caTools)
 library(ggplot2)
 #install.packages('Metrics')
