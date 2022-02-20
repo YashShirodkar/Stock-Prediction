@@ -1,6 +1,4 @@
-# Checking code for merge conflict.
-
-
+# Author: Yash Shirodkar
 
 library(caTools)
 library(ggplot2)
