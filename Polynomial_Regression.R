@@ -1,4 +1,5 @@
-# Using Polynomial Regression for Stock Analysis by Yash Shirodkar
+# Author: Yash Shirodkar
+
 
 library(caTools)
 library(ggplot2)
